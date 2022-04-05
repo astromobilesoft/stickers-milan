@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"rafaelleao1",
+         "name":"Rafael Leão",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sandrotonali1",
+         "name":"Sandro Tonali",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"seriea2122f30",
          "name":"vs Cagliari",
          "animated_sticker_pack":false,
