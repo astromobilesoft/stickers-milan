@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2223c2a",
+         "name":"vs Napoli (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"ufcl2223c2b",
+         "name":"vs Napoli (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"ufcl2223c1a",
          "name":"vs Napoli (1)",
          "animated_sticker_pack":false,
