@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2223f38",
+         "name":"vs Verona",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kithome2324a",
+         "name":"Kiy Home 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
          "identifier":"seriea2223f37",
          "name":"vs Juventus",
          "animated_sticker_pack":false,
