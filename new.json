@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"zlatanibrahimovic2",
+         "name":"Zlatan Ibrahimović (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"zlatanibrahimovic1",
+         "name":"Zlatan Ibrahimović (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"seriea2223f38",
          "name":"vs Verona",
          "animated_sticker_pack":false,
@@ -317,12 +329,6 @@
       {
          "identifier":"coppaitalia2122f4",
          "name":"vs Lazio",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"zlatanibrahimovic1",
-         "name":"Zlatan Ibrahimović",
          "animated_sticker_pack":false,
          "stickers":"15"
       },

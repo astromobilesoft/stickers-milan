@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"zlatanibrahimovic2",
+         "name":"Zlatan Ibrahimović (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"juniormessias1",
          "name":"Junior Messias",
          "animated_sticker_pack":false,
@@ -22,7 +28,7 @@
       },
       {
          "identifier":"zlatanibrahimovic1",
-         "name":"Zlatan Ibrahimović",
+         "name":"Zlatan Ibrahimović (1)",
          "animated_sticker_pack":false,
          "stickers":"15"
       },
