@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2324f3a",
+         "name":"vs Roma (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"seriea2324f3b",
+         "name":"vs Roma (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"seriea2324f2a",
          "name":"vs Torino (1)",
          "animated_sticker_pack":false,
