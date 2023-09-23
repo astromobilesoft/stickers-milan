@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"team2023",
+         "name":"Team 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"seriea2324f3a",
          "name":"vs Roma (1)",
          "animated_sticker_pack":false,
@@ -415,6 +421,18 @@
          "name":"Animated 2",
          "animated_sticker_pack":true,
          "stickers":"8"
+      },
+      {
+         "identifier":"team2021",
+         "name":"Team 2021",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"team2020",
+         "name":"Team 2020",
+         "animated_sticker_pack":false,
+         "stickers":"30"
       }
    ]
 }
