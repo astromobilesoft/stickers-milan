@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2324f14a",
+         "name":"vs Frosione (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"seriea2324f14b",
+         "name":"vs Frosione (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"seriea2324f13",
          "name":"vs Fiorentina",
          "animated_sticker_pack":false,
