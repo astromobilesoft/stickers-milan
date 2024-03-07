@@ -4,6 +4,12 @@
   "sticker_packs": [
       {
          "identifier":"uel2324o1",
+         "name":"vs Slavia Prague",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"uel2324d1",
          "name":"vs Rennes",
          "animated_sticker_pack":false,
          "stickers":"23"
