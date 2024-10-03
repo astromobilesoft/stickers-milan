@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"christianpulisic",
+         "name":"Christian Pulisic",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"team2425",
          "name":"Team 2024-2025",
          "animated_sticker_pack":false,
