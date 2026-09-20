@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2627f5a",
+         "name":"vs Lecce (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"seriea2627f5b",
+         "name":"vs Lecce (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },         
+      {
          "identifier":"seriea2627f4",
          "name":"vs Lazio",
          "animated_sticker_pack":false,
